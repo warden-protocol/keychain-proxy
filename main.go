@@ -23,7 +23,7 @@ type Config struct {
 	GRPCInsecure   bool   `env:"GRPC_INSECURE, default=true"`
 	DerivationPath string `env:"DERIVATION_PATH, default=m/44'/118'/0'/0/0"`
 	Mnemonic       string `env:"MNEMONIC, default=exclude try nephew main caught favorite tone degree lottery device tissue tent ugly mouse pelican gasp lava flush pen river noise remind balcony emerge"`
-	KeychainId     uint64 `env:"KEYCHAIN_ID, default=1"`
+	KeychainID     uint64 `env:"KEYCHAIN_ID, default=1"`
 
 	BatchInterval time.Duration `env:"BATCH_INTERVAL, default=8s"`
 	BatchSize     int           `env:"BATCH_SIZE, default=7"`
@@ -47,7 +47,7 @@ func main() {
 		GRPCInsecure:   cfg.GRPCInsecure,
 		DerivationPath: cfg.DerivationPath,
 		Mnemonic:       cfg.Mnemonic,
-		KeychainId:     cfg.KeychainId,
+		KeychainID:     cfg.KeychainID,
 		GasLimit:       cfg.GasLimit,
 		BatchInterval:  cfg.BatchInterval,
 		BatchSize:      cfg.BatchSize,
