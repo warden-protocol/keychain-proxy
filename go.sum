@@ -1176,6 +1176,8 @@ github.com/warden-protocol/wardenprotocol v0.3.2-alpha.0.20240626085309-27d1a695
 github.com/warden-protocol/wardenprotocol v0.3.2-alpha.0.20240626085309-27d1a695e794/go.mod h1:spZ1oCDXK49apul7uxrjFwrnfvjUGDZC/SPaymDhe5s=
 github.com/warden-protocol/wardenprotocol v0.3.2-alpha.0.20240627121725-1a4f089f973b h1:ho1tQEPkO8QAWR7MBlRk71T49L3Y+CBC7fKdki6p2+U=
 github.com/warden-protocol/wardenprotocol v0.3.2-alpha.0.20240627121725-1a4f089f973b/go.mod h1:spZ1oCDXK49apul7uxrjFwrnfvjUGDZC/SPaymDhe5s=
+github.com/warden-protocol/wardenprotocol v0.3.4-alpha.0.20240716091132-847cee60e2f8 h1:iFtt4z2AvQ9BgjzS/IKctztPrdTp3HxEFhNWeJ/CBrI=
+github.com/warden-protocol/wardenprotocol v0.3.4-alpha.0.20240716091132-847cee60e2f8/go.mod h1:spZ1oCDXK49apul7uxrjFwrnfvjUGDZC/SPaymDhe5s=
 github.com/xdg-go/pbkdf2 v1.0.0/go.mod h1:jrpuAogTd400dnrH08LKmI/xc1MbPOebTwRqcT5RDeI=
 github.com/xdg-go/scram v1.1.1/go.mod h1:RaEWvsqvNKKvBPvcKeFjrG2cJqOkHTiyTpzz23ni57g=
 github.com/xdg-go/stringprep v1.0.3/go.mod h1:W3f5j4i+9rC0kuIEJL0ky1VpHXQU3ocBgklLGvcBnW8=

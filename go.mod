@@ -6,7 +6,7 @@ require (
 	cosmossdk.io/math v1.3.0
 	github.com/cosmos/cosmos-sdk v0.50.7
 	github.com/sethvargo/go-envconfig v1.0.3
-	github.com/warden-protocol/wardenprotocol v0.3.2-alpha.0.20240627121725-1a4f089f973b
+	github.com/warden-protocol/wardenprotocol v0.3.4-alpha.0.20240716091132-847cee60e2f8
 )
 
 require (
